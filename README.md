@@ -1,6 +1,4 @@
 ## Hi, I'm Mason 👋
-
-## About Me:
 I enjoy tackling problems. If a project is incomplete or not working as intended, I stay motivated and committed to getting it right.<br><br>Education<br>GBC @ Computer Programming
 
 
