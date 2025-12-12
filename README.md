@@ -1,7 +1,7 @@
 ## Hi, I'm Mason 👋
 I enjoy tackling problems. If a project is not working as intended, I stay motivated and committed to getting it right.
 
-## Education
+## 🎓 Education:
 GBC @ Computer Programming
 
 ## 🌐 Socials:
