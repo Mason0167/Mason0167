@@ -1,6 +1,8 @@
 ## Hi, I'm Mason 👋
-I enjoy tackling problems. If a project is incomplete or not working as intended, I stay motivated and committed to getting it right.<br><br>Education<br>GBC @ Computer Programming
+I enjoy tackling problems. If a project is incomplete or not working as intended, I stay motivated and committed to getting it right.
 
+## Education
+GBC @ Computer Programming
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mason_0167) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cheng-yeh-tsai-699592366) 
