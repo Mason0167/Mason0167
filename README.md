@@ -3,6 +3,7 @@ I enjoy tackling problems. If a project is not working as intended, I stay motiv
 
 ## 🎓 Education
 Fu Guang University @ Psychology 
+
 George Brown College @ Computer Programming
 
 ## 🌐 Socials
