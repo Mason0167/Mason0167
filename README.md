@@ -2,7 +2,7 @@
 I enjoy tackling problems. If a project is not working as intended, I stay motivated and committed to getting it right.
 
 ## 🎓 Education
-Fu Guang University @ Psychology
+Fu Guang University @ Psychology 
 George Brown College @ Computer Programming
 
 ## 🌐 Socials
