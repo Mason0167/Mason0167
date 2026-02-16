@@ -1,5 +1,7 @@
 ## Hi👋, I'm Mason 
-I enjoy tackling problems. If a project is not working as intended, I stay motivated and committed to getting it right.
+I enjoy collecting and recording data, and analyzing it to understand what the data is telling me.
+I like noticing small inconveniences in daily life and using code to make things easier.
+
 
 ## 🎓 Education
 Psychology @ Fu Guang University
