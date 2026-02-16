@@ -1,5 +1,6 @@
 ## Hi👋, I'm Mason 
 I enjoy collecting and recording data, and analyzing it to understand what the data is telling me.
+
 I like noticing small inconveniences in daily life and using code to make things easier.
 
 
