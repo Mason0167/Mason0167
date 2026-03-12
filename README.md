@@ -1,6 +1,7 @@
 ## Hi👋, I'm Cheng Yeh Tsai
 
 I am passionate about data and enjoy analyzing it to uncover insights. 
+
 I am naturally motivated by identifying daily challenges and creating technical projects to solve them, ensuring each solution is completed effectively.
 
 <!-- 
